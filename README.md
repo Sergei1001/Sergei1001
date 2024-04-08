@@ -6,6 +6,13 @@
 - 📫 You can reach me via email: [sbabunovs@gmail.com](mailto:sbabunovs@gmail.com)
 - ⚡ Fun fact: I collect unusual socks and always choose a pair with the brightest and funniest patterns every day!
 
+My Projects and Projects I've Contributed To:
+- https://servergear.ru/
+- https://sanstok.ru/
+- https://7semyan.ru/
+- https://www.jpsnasti.ru/
+- https://prodbalance.ru/
+
 <!---
 Sergei1001/Sergei1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
